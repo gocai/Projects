@@ -11,3 +11,7 @@ The squares have the following meaning:
     corresponding slot
   * green: the corresponding letter appears in the secret word, in that slot.
 To execute the code, in a terminal input the following : 
+
+./hw6
+
+This will start the Wordle game listed above. Enjoy!
